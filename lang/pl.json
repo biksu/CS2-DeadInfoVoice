@@ -1,0 +1,4 @@
+{
+    "dead_info_start": "{GREEN}● {DEFAULT}Masz {LIME}{TIME} sekund{DEFAULT} na przekazanie informacji drużynie. Użyj mikrofonu!!!",
+    "dead_info_end": "{RED}● {DEFAULT}Czas na przekazanie informacji minął."
+  }
